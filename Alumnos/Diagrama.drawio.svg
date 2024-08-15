@@ -1,0 +1,111 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="425px" height="310px" viewBox="-0.5 -0.5 425 310" content="&lt;mxfile&gt;&lt;diagram id=&quot;whFJrrSSmTlW0QlppgoZ&quot; name=&quot;Página-1&quot;&gt;7Vnbbts4EP0aAduHGpLoi/xoy2l3AbcI6gDtPjISIxGlOAJFx3a/focSZVuWs5ET1dgFDAgBeTi8zTnkTGiHhNn2s6J5+gViJhzfjbcOWTi+PxkH+NcAuwog01EFJIrHFeQdgBX/xSzoWnTNY1Y0DDWA0DxvghFIySLdwKhSsGmaPYFozprThLWAVURFG/3OY51WaOBPDvifjCdpPbM3nlYtGa2N7U6KlMawOYLInUNCBaCrUrYNmTC+q/1S9fv0Qut+YYpJ3aWDX3V4pmJt9xauVQF2cXpX77jY8ExQibX5E0i9si0e1qngicRyhFMyhcAzU5qjs2a2QUOOaJRyES/pDtZmYYWm0c+6Nk9B8V84LBV2TGxW2vLujxsWK9MTYRdRxQq0ua93651AX+i2YbikhbZABELQvOCP+21kVCVczkFryKxR25nWv2aHbHsEWed+ZpAxrXZoUkvd8rxrVjcH1Xhji6XHipkOrVqtUpP9yAcysWD5PM8taXHr+HMn9J0ZzuiGEPMEHDLD8korLhMHPe0Tr9r5URE/dya5tf0LffEvhgv+zAsOspNxyCMBSzyh/Pm10T+aRYh1JqGoLJe8MKbC6KdqwFqi97QdiRe50qWoFPxkIQhAlS4kVGrmQpxAtaAFe9IvyrnIaYQ+W5Y2i+EB+WZZNBBg3ydRnu+UxzGTRoqgqaaV7szGcuBSlyyP5vghNaE7GDkjXHiIde9Qx8+YKx2CxL1QXqqSoag3rNBn9ep31qsVqHF4J4GSHgQ6PCPQE+oELympqKvvWu9NvGXIgGAHoh4Mj4uPXotM0iaTnCFO0Ecm7qHgupT7QlW2J4S+xllTlFymTPGeuNwT9xqZwfupHJ29azDgMZ1C/Ife5exDdW5N8XZC38Nq0I3V+ii/h9Zxi9b6qr3lB73kB6S+Ry9NECY93L+TFw7tV8geFeucGuQ4Ko87pxJf1xlT3ZKJB57DAiLsIPXJ+LcLRDePaP8h3utBYsEtxF8Q4i/m0hteL8RPbyH+SifUG14xxHvjFlUsTlgdwS0dqc7q2Iv7UrsfpjJw/T3wt/HkIBgOa2BRx9aqtjuu3eMJwIWabKAEy3A+Mw8zCMScZiDjh5TLuukTN8s/irlmhY2IeyYIF7BW0cnDEQ6WMGtGznOgmKD4/2hz+Hc5ePJWB7sDQhoO9gYe8f83Dp5ey8Fu62a6K6I1TnNLU3tKU/2g+Y7lT7vGnT5uKK/Fr30+Mk+VZ56D7BPm7TXolHa3M+8X5oq9BKL2W/QtV3w5V7yczJF/tVzRO//2fEsWf8MZ7frK18sZDd6ey7gkaCaLo2AP/KdyGdJOZSa/J5XB6uGnvrLt6PdScvcP&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-31-152-134-0">
+            <rect x="4" y="31" width="152" height="134"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-173-152-26-0">
+            <rect x="4" y="173" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-268-31-152-114-0">
+            <rect x="268" y="31" width="152" height="114"/>
+        </clipPath>
+        <clipPath id="mx-clip-268-153-152-26-0">
+            <rect x="268" y="153" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-214-251-152-26-0">
+            <rect x="214" y="251" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-214-285-152-26-0">
+            <rect x="214" y="285" width="152" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 26 L 0 0 L 160 0 L 160 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 26 L 0 194 L 160 194 L 160 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 160 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="17.5">
+                Curso
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-152-134-0)" font-size="12px">
+            <text x="5.5" y="43.5">
+                +  Codigo: String
+            </text>
+            <text x="5.5" y="71.5">
+                + Anio: Int
+            </text>
+            <text x="5.5" y="99.5">
+                + Division: Int
+            </text>
+            <text x="5.5" y="127.5">
+                + CicloLectivo: Int
+            </text>
+            <text x="5.5" y="155.5">
+                - Alumnos: List&lt;Alumno&gt;
+            </text>
+        </g>
+        <path d="M 0 164 L 160 164" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-173-152-26-0)" font-size="12px">
+            <text x="5.5" y="185.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 264 26 L 264 0 L 424 0 L 424 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 264 26 L 264 174 L 424 174 L 424 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 264 26 L 424 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="343.5" y="17.5">
+                Alumno
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-268-31-152-114-0)" font-size="12px">
+            <text x="269.5" y="43.5">
+                + Nombre: String
+            </text>
+            <text x="269.5" y="71.5">
+                + Apellido: String
+            </text>
+            <text x="269.5" y="99.5">
+                + Numero: Int
+            </text>
+            <text x="269.5" y="127.5">
+                + TipoDocumento: String
+            </text>
+        </g>
+        <path d="M 264 144 L 424 144" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-268-153-152-26-0)" font-size="12px">
+            <text x="269.5" y="165.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 240.34 214.41 L 167.91 143.55" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 245.35 219.31 L 241.4 218.33 L 240.34 214.41 L 244.28 215.39 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 164.16 139.88 L 171.61 142.27 L 167.91 143.55 L 166.71 147.28 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 305.95 212.38 L 315.05 183.51" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 303.84 219.06 L 302.93 215.1 L 305.95 212.38 L 306.86 216.34 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 316.62 178.5 L 317.86 186.23 L 315.05 183.51 L 311.18 184.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 210 246 L 210 220 L 370 220 L 370 246" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 210 246 L 210 306 L 370 306 L 370 246" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 210 246 L 370 246" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="289.5" y="237.5">
+                Escuela
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-214-251-152-26-0)" font-size="12px">
+            <text x="215.5" y="263.5">
+                + Cursos: List&lt;Curso&gt;
+            </text>
+        </g>
+        <path d="M 210 276 L 370 276" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-214-285-152-26-0)" font-size="12px">
+            <text x="215.5" y="297.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 167.99 93.01 L 263.71 93.03" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 160.99 93.01 L 164.49 90.96 L 167.99 93.01 L 164.49 95.07 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 268.96 93.03 L 261.96 96.53 L 263.71 93.03 L 261.96 89.53 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>

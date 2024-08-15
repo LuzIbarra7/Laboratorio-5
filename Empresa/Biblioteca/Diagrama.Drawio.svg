@@ -1,0 +1,101 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="561px" height="274px" viewBox="-0.5 -0.5 561 274" content="&lt;mxfile&gt;&lt;diagram id=&quot;7zJqD8cGfX6nA0xoX8oT&quot; name=&quot;Página-1&quot;&gt;7ZlRb5s6FMc/DdL2cCsMgaSPLem9e+imaJm07dGF02DNYGTcJtmn33GwQwihZQs36iSkqsKHY+Pj3znwt+P4Ubb5T9Ii/SgS4I7nJhvHnzueNw1n+F8btpUhJNeVYSVZUplIbViyn2CMrrE+sQTKhqMSgitWNI2xyHOIVcNGpRTrptuj4M2nFnQFLcMyprxt/coSlVbWmTet7R+ArVL7ZBKa+DJqnU0kZUoTsT4w+XeOH0khVHWVbSLgeu3sulT9/u24u5+YhFz16eBVHZ4pfzKxLUCWIqdmemprYy7XLOM0x9bto8jV0twh2KacrXK8jvGhINHwDFIxXK4bc0OJAq1xynhyT7fiSU+tVDT+YVu3qZDsJw5LuRkTb0tlyHthw2Ope6LZRauEEn0WNl5yZPpINw3He1oqY4gF57Qo2cM+jIzKFctvhVIiM05mdTAc2HSuMNlzw3wHkYGSW3QxHbzQoDa5Tqamva4zh1if9DBrfFMl1GTraj92DRQvDNPTfP0WX8fDqNxPInuQgBeOf7PjLFm+ciLPuXFb5DF2tSMixQ+IBBeIeJ6LKhUY50cmmw0cHlVnLpQFjfGJ9zuf+aS2fDYLoE0C+z7yXXmkLEkg1xyFoopW0DShQrBc7RYouMU/nH3kXgVOgBOPsE3qNv5pd6kikWMslO34AWbEGnRW9IPtnYa9tbD7sbV+56ANO9DeFMAZS8QId2C4gXc5uNMOuHORsZhxNtIdmu50djm6kxN0j8hxtiNSkbMig/wRtgwBcKg5fdEY5/+QFku/zdI/wY3TB+ALUTLFhB5fVr5HPF9D1sxJlqcg2UAoiTvpx3KAD2zQUag4UCqSd2pbwPuqUPXlWKBnUCUXfP+SaQsVJLgHME2DI1WZ1auVu/Z5WSfikOJJxnCQgO2IJXCq2HNzqFPhmK4LDaqWnH7QlJy+3TfZIVBbr0CZXkeLsp9Gr3WatdL/Lis4UC0/3s4Gwnf/4g3EZHZEM+i5gbh2uxOnbx1cd7zelpRTuVchRny4CcQsQwLjW+4F2h01b+n2hDvIS84ddch5OuRllkHP3eAAMoSQUYdcqELDnuJykAoNf1OGYAxy+02v21UwCa3hu7575aJYNYa5/apVre1ha4EFgBPV3+GDT9jvKhsr1iqpcaCVz1A7vVetfaoZcaa1xVsSJX/1qeafapLZEEXRdagZSUiYqo9GrLwdX3RdjN/OaSYZz0TO1CKvwOx7ejmEGBkPRS5Wo+H/t1/AZv1DZHU2UP+a69/9Ag==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-184-31-152-26-0">
+            <rect x="184" y="31" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-184-57-152-26-0">
+            <rect x="184" y="57" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-184-83-152-26-0">
+            <rect x="184" y="83" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-184-117-152-26-0">
+            <rect x="184" y="117" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-215-152-26-0">
+            <rect x="404" y="215" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-249-152-26-0">
+            <rect x="404" y="249" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-211-152-26-0">
+            <rect x="4" y="211" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-245-152-26-0">
+            <rect x="4" y="245" width="152" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 180 26 L 180 0 L 340 0 L 340 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 180 26 L 180 138 L 340 138 L 340 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 180 26 L 340 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="259.5" y="17.5">
+                Persona
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-184-31-152-26-0)" font-size="12px">
+            <text x="185.5" y="43.5">
+                + Nombre : string
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-184-57-152-26-0)" font-size="12px">
+            <text x="185.5" y="69.5">
+                + Apeliido : string
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-184-83-152-26-0)" font-size="12px">
+            <text x="185.5" y="95.5">
+                + Domicilio : string
+            </text>
+        </g>
+        <path d="M 180 108 L 340 108" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-184-117-152-26-0)" font-size="12px">
+            <text x="185.5" y="129.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 400 192.62 L 275.9 142.39" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 271.04 140.42 L 278.84 139.8 L 275.9 142.39 L 276.21 146.29 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 400 210 L 400 180 L 560 180 L 560 210" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 400 210 L 400 270 L 560 270 L 560 210" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 400 210 L 560 210" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="479.5" y="197.5">
+                Empleado
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-215-152-26-0)" font-size="12px">
+            <text x="405.5" y="227.5">
+                + Salario :  decimal
+            </text>
+        </g>
+        <path d="M 400 240 L 560 240" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-249-152-26-0)" font-size="12px">
+            <text x="405.5" y="261.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 160 186.98 L 261.55 141.26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 266.34 139.11 L 261.39 145.17 L 261.55 141.26 L 258.52 138.79 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 206 L 0 180 L 160 180 L 160 206" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 206 L 0 266 L 160 266 L 160 206" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 206 L 160 206" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="197.5">
+                Cliente
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-211-152-26-0)" font-size="12px">
+            <text x="5.5" y="223.5">
+                + Credito : int
+            </text>
+        </g>
+        <path d="M 0 236 L 160 236" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-245-152-26-0)" font-size="12px">
+            <text x="5.5" y="257.5">
+                + method(type): type
+            </text>
+        </g>
+    </g>
+</svg>

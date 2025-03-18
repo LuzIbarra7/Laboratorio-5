@@ -1,12 +1,10 @@
 
-namespace Biblioteca
-{
-    public abstract class Estado
-    {
-        public required string Nombre {get;set;}
+namespace Biblioteca;
 
-    public void Comer(Mascota mascota);
-    public void Jugar (Mascota mascota);
-    public  bool PodesJugar();
-    }
+public abstract class Estado
+{
+    public string Nombre { get; set; }
+    public abstract void Comer(Mascota mascota);
+    public abstract void Jugar(Mascota mascota);
+    public abstract bool PodesJugar();
 }
